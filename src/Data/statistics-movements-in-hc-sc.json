@@ -4,35 +4,27 @@
     "Number of Persons in HC": 56,
     "Number of Cases in HC": 35,
     "Number of Persons in SC": 17,
-    "Number of Cases in SC": 17,
-    "Judgments Available": 54,
-    "Judgments Not Available": 6
+    "Number of Cases in SC": 17
   },
   {
     "Action": "Acquitted",
     "Number of Persons in HC": 32,
     "Number of Cases in HC": 17,
     "Number of Persons in SC": 10,
-    "Number of Cases in SC": 3,
-    "Judgments Available": 19,
-    "Judgments Not Available": 1
+    "Number of Cases in SC": 3
   },
   {
     "Action": "Remitted",
     "Number of Persons in HC": 15,
     "Number of Cases in HC": 7,
     "Number of Persons in SC": 2,
-    "Number of Cases in SC": 2,
-    "Judgments Available": 5,
-    "Judgments Not Available": 2
+    "Number of Cases in SC": 2
   },
   {
     "Action": "Confirmed",
     "Number of Persons in HC": 26,
     "Number of Cases in HC": 15,
     "Number of Persons in SC": 6,
-    "Number of Cases in SC": 6,
-    "Judgments Available": 20,
-    "Judgments Not Available": 1
+    "Number of Cases in SC": 6
   }
 ]

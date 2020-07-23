@@ -1,11 +1,35 @@
-import React from 'react';
-import './App.css';
+import React from "react";
+import "./App.css";
+import Slider from "./components/slider";
 
-function App() {
-  return (
-    <div className="App">
-    </div>
-  );
+class App extends React.Component {
+  render() {
+    return (
+      <div>
+        <Slider>
+          <p>
+            2019 saw an increase in proportion of death sentences imposed for
+            sexual offences. 52.94% of the death sentences imposed at trial
+            courts and 65.38% of High Court confirmations of death sentences
+            involved sexual offences along with murder
+          </p>
+          <p>
+            The Supreme Court, during the tenure of former Chief Justice Ranjan
+            Gogoi, listed and heard the maximum number of capital cases (27)
+            since 2001
+          </p>
+          <p>
+            The POCSO Act was amended to introduce the death penalty for
+            non-homicidal rape of children
+          </p>
+          <p>
+            The state legislature of Andhra Pradesh amended the Indian Penal
+            Code to introduce the death penalty for non-homicidal rape of adult
+            women
+          </p>
+        </Slider>
+      </div>
+    );
+  }
 }
-
 export default App;
