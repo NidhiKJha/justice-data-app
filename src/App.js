@@ -1,6 +1,7 @@
 import React from "react";
 import "./App.css";
 import Slider from "./components/slider";
+import HighCourt from "./components/HighCourt/index";
 
 class App extends React.Component {
   render() {
@@ -28,6 +29,8 @@ class App extends React.Component {
             women
           </p>
         </Slider>
+        <br></br>
+        <HighCourt />
       </div>
     );
   }
