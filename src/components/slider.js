@@ -1,6 +1,6 @@
-import React from "react";
+import React, { Component } from "react";
 import "./style.css";
-class Slider extends React.Component {
+class Slider extends Component {
   state = { index: 0 };
 
   dotClicked = (e) => {
@@ -29,7 +29,5 @@ class Slider extends React.Component {
     );
   }
 }
-
-
 
 export default Slider;

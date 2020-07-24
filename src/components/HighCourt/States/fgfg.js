@@ -5,7 +5,7 @@ import "./cards.css";
 const StateTab = (props) => {
   console.log(props);
   return (
-    <Tab label={props.State}>
+    <Tab label="{props.State}">
       <div>
         <p>Tab 1 content</p>
       </div>
@@ -13,20 +13,30 @@ const StateTab = (props) => {
   );
 };
 
+// const MovementCard = (props) => {
+//   return (
+//     <Tab label={props.Movements}>
+//       <div>
+//         <p>Tab 1 content</p>
+//       </div>
+//     </Tab>
+//   );
+// };
+
 class StateCards extends Component {
   render() {
     return (
       <div className="tabs">
         <h1>State Data</h1>
         <Tabs>
+          {/* {STATE_MOVEMENTS_HC.map((state) => (
+            <StateTab state={state} />
+          ))} */}
           <Tab label="UP">
             <div>
-              <p>Tab g content</p>
+              <p>Tab 1 content</p>
             </div>
           </Tab>
-          {STATE_MOVEMENTS_HC.map((state) => (
-            <StateTab state={state} />
-          ))}
         </Tabs>
       </div>
     );
