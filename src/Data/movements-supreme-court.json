@@ -1,145 +1,9 @@
 [
-    {
-        "S. No.": 3,
-        "PID": "P003",
-        "State": "Maharashtra",
-        "Cause Title": "State of Maharashtra v. Santosh Maruti Mane",
-        "Action": "Commuted",
-        "Date": "09.01.2019",
-        "Nature of Offence": "Murder Simpliciter",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Hijacking of a bus and running over people"
-    },
-    {
-        "S. No.": 6,
-        "PID": "P006",
-        "State": "Maharashtra",
-        "Cause Title": "State of Maharashtra v. Raju Jagdish Paswan",
-        "Action": "Commuted",
-        "Date": "17.01.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices S. A. Bobde, L. Nageswara Rao and R. Subhash Reddy",
-        "Judgment": "Y",
-        "Sriharan Commutation": "30 years",
-        "Description of offence accused of": "Rape and murder of 9-year old girl"
-    },
-    {
-        "S. No.": 7,
-        "PID": "P007",
-        "State": "Madhya Pradesh",
-        "Cause Title": "State of Madhya Pradesh v. Yogendra alias Jogendra Singh",
-        "Action": "Commuted",
-        "Date": "17.01.2019",
-        "Nature of Offence": "Murder Simpliciter",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices S. A. Bobde, L. Nageswara Rao and R. Subhash Reddy",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Murder by acid attack - alleged lover"
-    },
-    {
-        "S. No.": 8,
-        "PID": "P008",
-        "State": "Madhya Pradesh",
-        "Cause Title": "Nand Kishore v. State of Madhya Pradesh",
-        "Action": "Commuted",
-        "Date": "18.01.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices S. A. Bobde, L. Nageswara Rao and R. Subhash Reddy",
-        "Judgment": "Y",
-        "Sriharan Commutation": "25 years",
-        "Description of offence accused of": "Rape and murder of 8-year old girl"
-    },
-    {
-        "S. No.": 15,
-        "PID": "P015",
-        "State": "Karnataka",
-        "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
-        "Action": "Acquitted",
-        "Date": "23.01.2019",
-        "Nature of Offence": "Dacoity with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Robbery and murder of 3 persons"
-    },
-    {
-        "S. No.": 16,
-        "PID": "P016",
-        "State": "Karnataka",
-        "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
-        "Action": "Acquitted",
-        "Date": "23.01.2019",
-        "Nature of Offence": "Dacoity with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Robbery and murder of 3 persons"
-    },
-    {
-        "S. No.": 17,
-        "PID": "P017",
-        "State": "Karnataka",
-        "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
-        "Action": "Commuted",
-        "Date": "23.01.2019",
-        "Nature of Offence": "Dacoity with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Robbery and murder of 3 persons"
-    },
-    {
-        "S. No.": 18,
-        "PID": "P018",
-        "State": "Karnataka",
-        "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
-        "Action": "Acquitted",
-        "Date": "23.01.2019",
-        "Nature of Offence": "Dacoity with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Robbery and murder of 3 persons"
-    },
-    {
-        "S. No.": 20,
-        "PID": "P020",
-        "State": "Madhya Pradesh",
-        "Cause Title": "State of Madhya Pradesh v. Vijay Raikwar",
-        "Action": "Commuted",
-        "Date": "05.02.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Rape and murder of 7.5 year-old girl"
-    },
-    {
-        "S. No.": 21,
-        "PID": "P021",
-        "State": "Maharashtra",
-        "Cause Title": "Javed Khan alias Tingra v. State of Maharashtra",
-        "Action": "Commuted",
-        "Date": "06.02.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
-        "Judgment": "N",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Robbery, trespass, rape and murder of a 19 year-old woman"
-    },
-    {
+  {
+    "State": "Bihar",
+    "NumberOfMovements": 1,
+    "Movements": [
+      {
         "S. No.": 25,
         "PID": "P025",
         "State": "Bihar",
@@ -152,22 +16,56 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Whole life",
         "Description of offence accused of": "Rape and murder of minor girl"
-    },
-    {
-        "S. No.": 31,
-        "PID": "P031",
-        "State": "Madhya Pradesh",
-        "Cause Title": "Parsuram v. State of Madhya Pradesh",
+      }
+    ]
+  },
+  {
+    "State": "Maharashtra",
+    "NumberOfMovements": 13,
+    "Movements": [
+      {
+        "S. No.": 3,
+        "PID": "P003",
+        "State": "Maharashtra",
+        "Cause Title": "State of Maharashtra v. Santosh Maruti Mane",
         "Action": "Commuted",
-        "Date": "19.02.2019",
+        "Date": "09.01.2019",
+        "Nature of Offence": "Murder Simpliciter",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Hijacking of a bus and running over people"
+      },
+      {
+        "S. No.": 6,
+        "PID": "P006",
+        "State": "Maharashtra",
+        "Cause Title": "State of Maharashtra v. Raju Jagdish Paswan",
+        "Action": "Commuted",
+        "Date": "17.01.2019",
         "Nature of Offence": "Sexual Offences",
         "Court (Bench)": "Supreme Court",
-        "Coram": "Justices N.V Ramana, Mohan M. Shantanagoudar and Indira Banerjee",
+        "Coram": "Justices S. A. Bobde, L. Nageswara Rao and R. Subhash Reddy",
         "Judgment": "Y",
         "Sriharan Commutation": "30 years",
-        "Description of offence accused of": "Rape and murder of a 16 year old girl in her house"
-    },
-    {
+        "Description of offence accused of": "Rape and murder of 9-year old girl"
+      },
+      {
+        "S. No.": 21,
+        "PID": "P021",
+        "State": "Maharashtra",
+        "Cause Title": "Javed Khan alias Tingra v. State of Maharashtra",
+        "Action": "Commuted",
+        "Date": "06.02.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
+        "Judgment": "N",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Robbery, trespass, rape and murder of a 19 year-old woman"
+      },
+      {
         "S. No.": 33,
         "PID": "P033",
         "State": "Maharashtra",
@@ -180,22 +78,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Kidnapping and murdering a minor boy"
-    },
-    {
-        "S. No.": 34,
-        "PID": "P034",
-        "State": "Uttar Pradesh",
-        "Cause Title": "Pappu alias Chandra Kumar v. State of Uttar Pradesh",
-        "Action": "Remitted",
-        "Date": "20.02.2019",
-        "Nature of Offence": "Murder Simpliciter",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Murder of a police officer and under Arms Act"
-    },
-    {
+      },
+      {
         "S. No.": 35,
         "PID": "P035",
         "State": "Maharashtra",
@@ -208,22 +92,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Rape and murder of a 5 year-old girl"
-    },
-    {
-        "S. No.": 36,
-        "PID": "P036",
-        "State": "Madhya Pradesh",
-        "Cause Title": "Jagdish v. State of Madhya Pradesh",
-        "Action": "Commuted",
-        "Date": "21.02.2019",
-        "Nature of Offence": "Murder Simpliciter",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices N. V. Ramana, Deepak Gupta and Indira Banerjee",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Murder of wife and five children"
-    },
-    {
+      },
+      {
         "S. No.": 37,
         "PID": "P037",
         "State": "Maharashtra",
@@ -236,8 +106,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Killed members of a family, trespass, extortion, loot"
-    },
-    {
+      },
+      {
         "S. No.": 38,
         "PID": "P038",
         "State": "Maharashtra",
@@ -250,8 +120,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Killed members of a family, trespass, extortion, loot"
-    },
-    {
+      },
+      {
         "S. No.": 39,
         "PID": "P039",
         "State": "Maharashtra",
@@ -264,8 +134,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Killed members of a family, trespass, extortion, loot"
-    },
-    {
+      },
+      {
         "S. No.": 40,
         "PID": "P040",
         "State": "Maharashtra",
@@ -278,8 +148,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Killed members of a family, trespass, extortion, loot"
-    },
-    {
+      },
+      {
         "S. No.": 41,
         "PID": "P041",
         "State": "Maharashtra",
@@ -292,64 +162,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Killed members of a family, trespass, extortion, loot"
-    },
-    {
-        "S. No.": 42,
-        "PID": "P042",
-        "State": "Chhattisgarh",
-        "Cause Title": "Digamber Vaishnav and Anr v. State of Chhattisgarh",
-        "Action": "Acquitted",
-        "Date": "05.03.2019",
-        "Nature of Offence": "Robbery with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Robbery and murder of relatives"
-    },
-    {
-        "S. No.": 43,
-        "PID": "P043",
-        "State": "Chhattisgarh",
-        "Cause Title": "Digamber Vaishnav and Anr v. State of Chhattisgarh",
-        "Action": "Acquitted",
-        "Date": "05.03.2019",
-        "Nature of Offence": "Robbery with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Robbery and murder of relatives"
-    },
-    {
-        "S. No.": 44,
-        "PID": "P044",
-        "State": "Punjab",
-        "Cause Title": "Khushwinder Singh v. State of Punjab",
-        "Action": "Confirmed",
-        "Date": "05.03.2019",
-        "Nature of Offence": "Kidnapping with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Murdered 6 members of a family including two minors"
-    },
-    {
-        "S. No.": 45,
-        "PID": "P045",
-        "State": "Madhya Pradesh",
-        "Cause Title": "Sachin Kumar Singhraha v. State of Madhya Pradesh",
-        "Action": "Commuted",
-        "Date": "12.03.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices N.V Ramana, Mohan M. Shantanagoudar and Indira Banerjee",
-        "Judgment": "Y",
-        "Sriharan Commutation": "25 years",
-        "Description of offence accused of": "Rape and murder of a minor girl"
-    },
-    {
+      },
+      {
         "S. No.": 71,
         "PID": "P071",
         "State": "Maharashtra",
@@ -362,36 +176,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Whole life",
         "Description of offence accused of": "Multiple rape and murder"
-    },
-    {
-        "S. No.": 92,
-        "PID": "P092",
-        "State": "Madhya Pradesh",
-        "Cause Title": "Dileep Bankar v. State of Madhya Pradesh 1059-1060 of 2019",
-        "Action": "Commuted",
-        "Date": "10.07.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justice Arun Mishra, Justice S. Abdul Nazeer and Justice M R Shah",
-        "Judgment": "Y",
-        "Sriharan Commutation": "25 years",
-        "Description of offence accused of": "Rape and murder of a minor girl"
-    },
-    {
-        "S. No.": 104,
-        "PID": "P104",
-        "State": "Tamil Nadu",
-        "Cause Title": "Manoharan v. State by Inspector of Police",
-        "Action": "Confirmed",
-        "Date": "01.08.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justice R J Nariman, Justice Surya Kant and Justice Sanjay Khanna (Dissent)",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Rape and murder of young girl and muder of her brother"
-    },
-    {
+      },
+      {
         "S. No.": 118,
         "PID": "P118",
         "State": "Maharashtra",
@@ -404,36 +190,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Whole life",
         "Description of offence accused of": "Murder of woman with whom he was staying with and four children"
-    },
-    {
-        "S. No.": 119,
-        "PID": "P119",
-        "State": "Chhattisgarh",
-        "Cause Title": "Ishwari Lal and Anr v. State of Chhattisgarh",
-        "Action": "Confirmed",
-        "Date": "03.10.2019",
-        "Nature of Offence": "Kidnapping with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices Rohinton Fali Nariman, R. Subhash Reddy and Surya Kant",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Child sacrifice"
-    },
-    {
-        "S. No.": 120,
-        "PID": "P120",
-        "State": "Chhattisgarh",
-        "Cause Title": "Ishwari Lal and Anr v. State of Chhattisgarh",
-        "Action": "Confirmed",
-        "Date": "03.10.2019",
-        "Nature of Offence": "Kidnapping with Murder",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices Rohinton Fali Nariman, R. Subhash Reddy and Surya Kant",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Child sacrifice"
-    },
-    {
+      },
+      {
         "S. No.": 121,
         "PID": "P121",
         "State": "Maharashtra",
@@ -446,8 +204,112 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Rape and murder of minor girl"
-    },
-    {
+      }
+    ]
+  },
+  {
+    "State": "Madhya Pradesh",
+    "NumberOfMovements": 9,
+    "Movements": [
+      {
+        "S. No.": 7,
+        "PID": "P007",
+        "State": "Madhya Pradesh",
+        "Cause Title": "State of Madhya Pradesh v. Yogendra alias Jogendra Singh",
+        "Action": "Commuted",
+        "Date": "17.01.2019",
+        "Nature of Offence": "Murder Simpliciter",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices S. A. Bobde, L. Nageswara Rao and R. Subhash Reddy",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Murder by acid attack - alleged lover"
+      },
+      {
+        "S. No.": 8,
+        "PID": "P008",
+        "State": "Madhya Pradesh",
+        "Cause Title": "Nand Kishore v. State of Madhya Pradesh",
+        "Action": "Commuted",
+        "Date": "18.01.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices S. A. Bobde, L. Nageswara Rao and R. Subhash Reddy",
+        "Judgment": "Y",
+        "Sriharan Commutation": "25 years",
+        "Description of offence accused of": "Rape and murder of 8-year old girl"
+      },
+      {
+        "S. No.": 20,
+        "PID": "P020",
+        "State": "Madhya Pradesh",
+        "Cause Title": "State of Madhya Pradesh v. Vijay Raikwar",
+        "Action": "Commuted",
+        "Date": "05.02.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Rape and murder of 7.5 year-old girl"
+      },
+      {
+        "S. No.": 31,
+        "PID": "P031",
+        "State": "Madhya Pradesh",
+        "Cause Title": "Parsuram v. State of Madhya Pradesh",
+        "Action": "Commuted",
+        "Date": "19.02.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices N.V Ramana, Mohan M. Shantanagoudar and Indira Banerjee",
+        "Judgment": "Y",
+        "Sriharan Commutation": "30 years",
+        "Description of offence accused of": "Rape and murder of a 16 year old girl in her house"
+      },
+      {
+        "S. No.": 36,
+        "PID": "P036",
+        "State": "Madhya Pradesh",
+        "Cause Title": "Jagdish v. State of Madhya Pradesh",
+        "Action": "Commuted",
+        "Date": "21.02.2019",
+        "Nature of Offence": "Murder Simpliciter",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices N. V. Ramana, Deepak Gupta and Indira Banerjee",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Murder of wife and five children"
+      },
+      {
+        "S. No.": 45,
+        "PID": "P045",
+        "State": "Madhya Pradesh",
+        "Cause Title": "Sachin Kumar Singhraha v. State of Madhya Pradesh",
+        "Action": "Commuted",
+        "Date": "12.03.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices N.V Ramana, Mohan M. Shantanagoudar and Indira Banerjee",
+        "Judgment": "Y",
+        "Sriharan Commutation": "25 years",
+        "Description of offence accused of": "Rape and murder of a minor girl"
+      },
+      {
+        "S. No.": 92,
+        "PID": "P092",
+        "State": "Madhya Pradesh",
+        "Cause Title": "Dileep Bankar v. State of Madhya Pradesh 1059-1060 of 2019",
+        "Action": "Commuted",
+        "Date": "10.07.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justice Arun Mishra, Justice S. Abdul Nazeer and Justice M R Shah",
+        "Judgment": "Y",
+        "Sriharan Commutation": "25 years",
+        "Description of offence accused of": "Rape and murder of a minor girl"
+      },
+      {
         "S. No.": 122,
         "PID": "P122",
         "State": "Madhya Pradesh",
@@ -460,36 +322,8 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Whole life",
         "Description of offence accused of": "Rape and murder of minor girl"
-    },
-    {
-        "S. No.": 148,
-        "PID": "P104",
-        "State": "Tamil Nadu",
-        "Cause Title": "Manoharan v. State of Tamil Nadu",
-        "Action": "SC Review Confirmed",
-        "Date": "07.11.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices Rohinton Fali Nariman, Surya Kant and Sanjiv Khanna",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "Gangrape and murder of a 10-year-old girl and murder of a boy"
-    },
-    {
-        "S. No.": 160,
-        "PID": "P160",
-        "State": "Delhi",
-        "Cause Title": "Akshay Kumar Singh v. State (NCT of Delhi)",
-        "Action": "Confirmed",
-        "Date": "18.12.2019",
-        "Nature of Offence": "Sexual Offences",
-        "Court (Bench)": "Supreme Court",
-        "Coram": "Justices R. Banumathi, Ashok Bhushan and A. S. Bopanna",
-        "Judgment": "Y",
-        "Sriharan Commutation": "Not Applicable",
-        "Description of offence accused of": "December 16 gangrape and murder case"
-    },
-    {
+      },
+      {
         "S. No.": 161,
         "PID": "P161",
         "State": "Madhya Pradesh",
@@ -502,5 +336,226 @@
         "Judgment": "Y",
         "Sriharan Commutation": "Not Applicable",
         "Description of offence accused of": "Rape and murder of a minor girl"
-    }
+      }
+    ]
+  },
+  {
+    "State": "Karnataka",
+    "NumberOfMovements": 4,
+    "Movements": [
+      {
+        "S. No.": 15,
+        "PID": "P015",
+        "State": "Karnataka",
+        "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
+        "Action": "Acquitted",
+        "Date": "23.01.2019",
+        "Nature of Offence": "Dacoity with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Robbery and murder of 3 persons"
+      },
+      {
+        "S. No.": 16,
+        "PID": "P016",
+        "State": "Karnataka",
+        "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
+        "Action": "Acquitted",
+        "Date": "23.01.2019",
+        "Nature of Offence": "Dacoity with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Robbery and murder of 3 persons"
+      },
+      {
+        "S. No.": 17,
+        "PID": "P017",
+        "State": "Karnataka",
+        "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
+        "Action": "Commuted",
+        "Date": "23.01.2019",
+        "Nature of Offence": "Dacoity with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Robbery and murder of 3 persons"
+      },
+      {
+        "S. No.": 18,
+        "PID": "P018",
+        "State": "Karnataka",
+        "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
+        "Action": "Acquitted",
+        "Date": "23.01.2019",
+        "Nature of Offence": "Dacoity with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Robbery and murder of 3 persons"
+      }
+    ]
+  },
+
+  {
+    "State": "Uttar Pradesh",
+    "NumberOfMovements": 1,
+    "Movements": [
+      {
+        "S. No.": 34,
+        "PID": "P034",
+        "State": "Uttar Pradesh",
+        "Cause Title": "Pappu alias Chandra Kumar v. State of Uttar Pradesh",
+        "Action": "Remitted",
+        "Date": "20.02.2019",
+        "Nature of Offence": "Murder Simpliciter",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Murder of a police officer and under Arms Act"
+      }
+    ]
+  },
+  {
+    "State": "Chhattisgarh",
+    "NumberOfMovements": 4,
+    "Movements": [
+      {
+        "S. No.": 42,
+        "PID": "P042",
+        "State": "Chhattisgarh",
+        "Cause Title": "Digamber Vaishnav and Anr v. State of Chhattisgarh",
+        "Action": "Acquitted",
+        "Date": "05.03.2019",
+        "Nature of Offence": "Robbery with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Robbery and murder of relatives"
+      },
+      {
+        "S. No.": 43,
+        "PID": "P043",
+        "State": "Chhattisgarh",
+        "Cause Title": "Digamber Vaishnav and Anr v. State of Chhattisgarh",
+        "Action": "Acquitted",
+        "Date": "05.03.2019",
+        "Nature of Offence": "Robbery with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Robbery and murder of relatives"
+      },
+      {
+        "S. No.": 119,
+        "PID": "P119",
+        "State": "Chhattisgarh",
+        "Cause Title": "Ishwari Lal and Anr v. State of Chhattisgarh",
+        "Action": "Confirmed",
+        "Date": "03.10.2019",
+        "Nature of Offence": "Kidnapping with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices Rohinton Fali Nariman, R. Subhash Reddy and Surya Kant",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Child sacrifice"
+      },
+      {
+        "S. No.": 120,
+        "PID": "P120",
+        "State": "Chhattisgarh",
+        "Cause Title": "Ishwari Lal and Anr v. State of Chhattisgarh",
+        "Action": "Confirmed",
+        "Date": "03.10.2019",
+        "Nature of Offence": "Kidnapping with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices Rohinton Fali Nariman, R. Subhash Reddy and Surya Kant",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Child sacrifice"
+      }
+    ]
+  },
+  {
+    "State": "Punjab",
+    "NumberOfMovements": 1,
+    "Movements": [
+      {
+        "S. No.": 44,
+        "PID": "P044",
+        "State": "Punjab",
+        "Cause Title": "Khushwinder Singh v. State of Punjab",
+        "Action": "Confirmed",
+        "Date": "05.03.2019",
+        "Nature of Offence": "Kidnapping with Murder",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices A. K. Sikri, S. Abdul Nazeer and M. R. Shah",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Murdered 6 members of a family including two minors"
+      }
+    ]
+  },
+  {
+    "State": "Tamil Nadu",
+    "NumberOfMovements": 2,
+    "Movements": [
+      {
+        "S. No.": 104,
+        "PID": "P104",
+        "State": "Tamil Nadu",
+        "Cause Title": "Manoharan v. State by Inspector of Police",
+        "Action": "Confirmed",
+        "Date": "01.08.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justice R J Nariman, Justice Surya Kant and Justice Sanjay Khanna (Dissent)",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Rape and murder of young girl and muder of her brother"
+      },
+      {
+        "S. No.": 148,
+        "PID": "P104",
+        "State": "Tamil Nadu",
+        "Cause Title": "Manoharan v. State of Tamil Nadu",
+        "Action": "SC Review Confirmed",
+        "Date": "07.11.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices Rohinton Fali Nariman, Surya Kant and Sanjiv Khanna",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "Gangrape and murder of a 10-year-old girl and murder of a boy"
+      }
+    ]
+  },
+  {
+    "State": "Delhi",
+    "NumberOfMovements": 1,
+    "Movements": [
+      {
+        "S. No.": 160,
+        "PID": "P160",
+        "State": "Delhi",
+        "Cause Title": "Akshay Kumar Singh v. State (NCT of Delhi)",
+        "Action": "Confirmed",
+        "Date": "18.12.2019",
+        "Nature of Offence": "Sexual Offences",
+        "Court (Bench)": "Supreme Court",
+        "Coram": "Justices R. Banumathi, Ashok Bhushan and A. S. Bopanna",
+        "Judgment": "Y",
+        "Sriharan Commutation": "Not Applicable",
+        "Description of offence accused of": "December 16 gangrape and murder case"
+      }
+    ]
+  }
 ]
