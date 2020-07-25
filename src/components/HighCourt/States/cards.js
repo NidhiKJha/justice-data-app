@@ -69,10 +69,7 @@ const MovementCard = ({ movement, open }) => {
   };
   return (
     <div className="block">
-      <div
-        className="Box-Section"
-        onClick={() => setIsCollapsed(!isCollapsed)}
-      >
+      <div className="Box-Section" onClick={() => setIsCollapsed(!isCollapsed)}>
         <span className="pad-body">
           {" "}
           {movement["Cause Title"]
@@ -145,7 +142,15 @@ class StateCards extends Component {
   render() {
     return (
       <div className="tabs">
-        <h1 style={{color:"#1b1d6b"}}>State Data</h1>
+        <h1
+          style={{
+            color: "#1b1d6b",
+            backgroundColor: "#edf3ff",
+            padding: "5px",
+          }}
+        >
+          State Data
+        </h1>
         <Tabs>
           {STATE_MOVEMENTS_HC.map((state) => {
             return (

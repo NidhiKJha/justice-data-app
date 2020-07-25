@@ -2,11 +2,14 @@ import React from "react";
 import "./App.css";
 import Slider from "./components/slider";
 import HighCourt from "./components/HighCourt/index";
+import NavBar from "./components/nav";
 
 class App extends React.Component {
   render() {
     return (
       <div>
+        <NavBar />
+        <br></br>
         <Slider>
           <p className="overview-body">
             2019 saw an increase in proportion of death sentences imposed for

@@ -9,7 +9,10 @@ class Slider extends Component {
 
   render() {
     return (
-      <div className="slider-container">
+      <div className="slider-container" 
+      > <span className="pad-body" style={{fontSize:'24px'}}>
+        Overview
+      </span>
         <div
           className="slider-innerContainer"
           style={{ left: -100 * this.state.index + "%" }}

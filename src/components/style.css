@@ -1,5 +1,5 @@
 .slider-container {
-  box-shadow:  2px solid #e5edf3;
+  box-shadow: 2px solid #e5edf3;
   border: 2px solid #e5edf3;
   padding-bottom: 2;
   background-color: #edf3ff;
@@ -43,8 +43,24 @@
   height: 40px;
 }
 
+.nav {
+  display: flex;
+  background-color: #003d59;
+  width: 100%;
+  padding: 20px;
+  padding-left: 0px !important;
+  color: #f8f8f8;
+  padding-right: 0px !important;
+}
+
+.about-text {
+  margin: 0 auto;
+  font-size: 24px;
+  font-weight: 500;
+}
+
 @media only screen and (max-width: 430px) {
   .slider-container {
-    height: 240px;
+    height: 260px;
   }
 }
