@@ -1,117 +1,130 @@
 .tabs {
-  margin: 0 auto;
+    margin: 0 auto;
 
-  text-align: center;
-  margin-top: 40px;
+    text-align: center;
+    margin-top: 40px;
 }
 
 img {
-  width: 300px;
+    width: 300px;
 }
 
 .tab-buttons {
-  margin-bottom: 50px;
+    margin-bottom: 50px;
 }
 
 button {
-  margin-right: 15px;
-  font-size: 16px;
-  background: transparent;
-  border: #a9ebff;
-  outline: none;
-  padding: 10px 20px;
-  cursor: grab;
-  color: #1b1d6b;
-  transition: all ease-in-out 0.2s;
-  border-bottom: 2px solid transparent;
+    margin-right: 15px;
+    font-size: 16px;
+    background: transparent;
+    border: #a9ebff;
+    outline: none;
+    padding: 10px 20px;
+    cursor: grab;
+    color: #1b1d6b;
+    transition: all ease-in-out 0.2s;
+    border-bottom: 2px solid transparent;
 }
 
 .tab-content {
-  flex-direction: row;
-  justify-content: space-evenly;
-  box-shadow: 2px 4px 10px 0 #edf3ff;
-  margin-bottom: 20px;
+    flex-direction: row;
+    justify-content: space-evenly;
+    box-shadow: 2px 4px 10px 0 #edf3ff;
+    margin-bottom: 20px;
 }
 .active {
-  border-bottom: 2px solid #42b3f4;
+    border-bottom: 2px solid #42b3f4;
 
-  color: black;
+    color: black;
 }
 .pad-head {
-  margin-left: 20px;
+    margin-left: 20px;
 }
 
 .pad-body {
-  font-size: 18px !important;
-  font-weight: bold;
-  line-height: 1.5 !important;
-  color: #1b1d6b !important;
-  text-align: left !important;
-  padding: 16px 10px;
-  margin-bottom: 0;
+    font-size: 18px !important;
+    font-weight: bold;
+    line-height: 1.5 !important;
+    color: #1b1d6b !important;
+    text-align: left !important;
+    padding: 16px 10px;
+    margin-bottom: 0;
 
-  font-family: Arial;
-  box-sizing: border-box;
-  box-shadow: grey;
+    font-family: Arial;
+    box-sizing: border-box;
+    box-shadow: grey;
 }
 .Box-Card {
-  display: flex;
-  padding: 0px;
-  background-color: #edf3ff;
+    display: flex;
+    padding: 0px;
+    background-color: #edf3ff;
 }
 .flex-t {
-  flex: 1;
-  border-bottom: 1px solid #f7f7f7;
-  border-right: 1px solid #f7f7f7;
-  padding: 4px 20px;
-  background-color: white;
-  display: flex;
-  flex-direction: column;
+    flex: 1;
+    border-bottom: 1px solid #f7f7f7;
+    border-right: 1px solid #f7f7f7;
+    padding: 4px 20px;
+    background-color: white;
+    display: flex;
+    flex-direction: column;
 }
 
 .flex-t-head {
-  color: #558dd1 !important;
-  font-size: 14px;
-  padding: 4px;
-  font-weight: bold;
+    color: #558dd1 !important;
+    font-size: 14px;
+    padding: 4px;
+    font-weight: bold;
 }
 .flex-t-body {
-  padding: 4px;
-  font-size: 14px;
-  color: #193e4e !important;
+    padding: 4px;
+    font-size: 14px;
+    color: #193e4e !important;
 }
 
 .flex-t:hover {
-  background-color: #a9ebff;
+    background-color: #a9ebff;
 }
 
 .Box-Section {
-  box-shadow: 0 6px 36px 0 rgba(0, 62, 100, 0.04);
-  border: 1px solid #e5edf3;
-  padding-bottom: 2;
-  background-color: #edf3ff;
+    box-shadow: 0 6px 36px 0 rgba(0, 62, 100, 0.04);
+    border: 1px solid #e5edf3;
+    padding-bottom: 2;
+    background-color: #edf3ff;
 }
 
 .Box-Section-Body {
-  background-color: #ffffff;
+    background-color: #ffffff;
 }
 
 .block {
-  background-color: white;
-  width: 100%;
+    background-color: white;
+    width: 100%;
 }
 
 .tab-header {
-  margin: 0 auto;
-  padding: 5px;
-  margin-top: 20px;
-  margin-bottom: 20px;
-  font-size: 24px;
-  font-weight: 500;
-  color: #1b1d6b;
-  background-color: #edf3ff;
+    margin: 0 auto;
+    padding: 5px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font-size: 24px;
+    font-weight: 500;
+    color: #1b1d6b;
+    background-color: #edf3ff;
 }
 
 .part {
-  margin-top: 20px;
+    margin-top: 20px;
+}
+
+.body-header {
+    font-size: 24px;
+    font-weight: 500;
+    margin-bottom: 20px;
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    padding-left: 0px !important;
+    color: #1b1d6b;
+    background-color: #edf3ff;
+    padding-right: 0px !important;
 }

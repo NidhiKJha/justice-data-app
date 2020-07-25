@@ -1,16 +1,16 @@
 import React, { Component } from 'react';
-import MOVEMENTS_IN_HC from './../../../Data/statistics-movements-in-hc-sc.json';
+import MOVEMENTS_IN_SC from './../../../Data/statistics-movements-in-hc-sc.json';
 import { HorizontalBar } from 'react-chartjs-2';
 
-class MovementsHighCourtChart extends Component {
-    formData = (dataset = MOVEMENTS_IN_HC) => {
+class MovementsSupremeCourtChart extends Component {
+    formData = (dataset = MOVEMENTS_IN_SC) => {
         const numberOfPersons = [];
         const numberOfCases = [];
         const labels = [];
 
         for (let movement of dataset) {
-            numberOfPersons.push(movement['Number of Persons in HC']);
-            numberOfCases.push(movement['Number of Cases in HC']);
+            numberOfPersons.push(movement['Number of Persons in SC']);
+            numberOfCases.push(movement['Number of Cases in HSC']);
             labels.push(movement['Action']);
         }
 
@@ -19,12 +19,12 @@ class MovementsHighCourtChart extends Component {
             datasets: [
                 {
                     data: numberOfPersons,
-                    label: 'Number of Persons in HC',
+                    label: 'Number of Persons in SC',
                     backgroundColor: '#003d59'
                 },
                 {
                     data: numberOfCases,
-                    label: 'Number of Cases in HC',
+                    label: 'Number of Cases in SC',
                     backgroundColor: '#69c2bd'
                 }
             ]
@@ -35,4 +35,4 @@ class MovementsHighCourtChart extends Component {
     }
 }
 
-export default MovementsHighCourtChart;
+export default MovementsSupremeCourtChart;

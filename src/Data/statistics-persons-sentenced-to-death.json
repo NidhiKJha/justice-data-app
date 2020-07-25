@@ -1,194 +1,194 @@
 [
-  {
-    "State": "Andhra Pradesh",
-    "Number of persons currently on death row": 0,
-    "Persons sentenced to death in 2019": 0,
-    "Total no. of judgments": 0,
-    "Judgments available": 0,
-    "Judgments not available": 0
-  },
-  {
-    "State": "Assam",
-    "Number of persons currently on death row": 10,
-    "Persons sentenced to death in 2019": 4,
-    "Total no. of judgments": 4,
-    "Judgments available": 2,
-    "Judgments not available": 2
-  },
-  {
-    "State": "Bihar",
-    "Number of persons currently on death row": 28,
-    "Persons sentenced to death in 2019": 7,
-    "Total no. of judgments": 5,
-    "Judgments available": 3,
-    "Judgments not available": 2
-  },
-  {
-    "State": "Chhattisgarh",
-    "Number of persons currently on death row": 8,
-    "Persons sentenced to death in 2019": 1,
-    "Total no. of judgments": 1,
-    "Judgments available": 0,
-    "Judgments not available": 1
-  },
-  {
-    "State": "Delhi",
-    "Number of persons currently on death row": 9,
-    "Persons sentenced to death in 2019": 0,
-    "Total no. of judgments": 0,
-    "Judgments available": 0,
-    "Judgments not available": 0
-  },
-  {
-    "State": "Gujarat",
-    "Number of persons currently on death row": 4,
-    "Persons sentenced to death in 2019": 2,
-    "Total no. of judgments": 2,
-    "Judgments available": 1,
-    "Judgments not available": 1
-  },
-  {
-    "State": "Haryana",
-    "Number of persons currently on death row": 11,
-    "Persons sentenced to death in 2019": 0,
-    "Total no. of judgments": 0,
-    "Judgments available": 0,
-    "Judgments not available": 0
-  },
-  {
-    "State": "Himachal Pradesh",
-    "Number of persons currently on death row": 3,
-    "Persons sentenced to death in 2019": 0,
-    "Total no. of judgments": 0,
-    "Judgments available": 0,
-    "Judgments not available": 0
-  },
-  {
-    "State": "Jammu and Kashmir",
-    "Number of persons currently on death row": 10,
-    "Persons sentenced to death in 2019": 0,
-    "Total no. of judgments": 0,
-    "Judgments available": 0,
-    "Judgments not available": 0
-  },
-  {
-    "State": "Jharkhand",
-    "Number of persons currently on death row": 23,
-    "Persons sentenced to death in 2019": 8,
-    "Total no. of judgments": 6,
-    "Judgments available": 4,
-    "Judgments not available": 2
-  },
-  {
-    "State": "Karnataka",
-    "Number of persons currently on death row": 27,
-    "Persons sentenced to death in 2019": 8,
-    "Total no. of judgments": 10,
-    "Judgments available": 7,
-    "Judgments not available": 3
-  },
-  {
-    "State": "Kerala",
-    "Number of persons currently on death row": 19,
-    "Persons sentenced to death in 2019": 4,
-    "Total no. of judgments": 4,
-    "Judgments available": 4,
-    "Judgments not available": 0
-  },
-  {
-    "State": "Madhya Pradesh",
-    "Number of persons currently on death row": 34,
-    "Persons sentenced to death in 2019": 11,
-    "Total no. of judgments": 11,
-    "Judgments available": 10,
-    "Judgments not available": 1
-  },
-  {
-    "State": "Maharashtra",
-    "Number of persons currently on death row": 45,
-    "Persons sentenced to death in 2019": 7,
-    "Total no. of judgments": 7,
-    "Judgments available": 4,
-    "Judgments not available": 3
-  },
-  {
-    "State": "Manipur",
-    "Number of persons currently on death row": 2,
-    "Persons sentenced to death in 2019": 2,
-    "Total no. of judgments": 2,
-    "Judgments available": 1,
-    "Judgments not available": 1
-  },
-  {
-    "State": "Orissa",
-    "Number of persons currently on death row": 5,
-    "Persons sentenced to death in 2019": 4,
-    "Total no. of judgments": 4,
-    "Judgments available": 2,
-    "Judgments not available": 2
-  },
-  {
-    "State": "Punjab",
-    "Number of persons currently on death row": 8,
-    "Persons sentenced to death in 2019": 2,
-    "Total no. of judgments": 2,
-    "Judgments available": 1,
-    "Judgments not available": 1
-  },
-  {
-    "State": "Rajasthan",
-    "Number of persons currently on death row": 16,
-    "Persons sentenced to death in 2019": 13,
-    "Total no. of judgments": 7,
-    "Judgments available": 1,
-    "Judgments not available": 6
-  },
-  {
-    "State": "Tamil Nadu",
-    "Number of persons currently on death row": 13,
-    "Persons sentenced to death in 2019": 3,
-    "Total no. of judgments": 3,
-    "Judgments available": 1,
-    "Judgments not available": 2
-  },
-  {
-    "State": "Telangana",
-    "Number of persons currently on death row": 7,
-    "Persons sentenced to death in 2019": 1,
-    "Total no. of judgments": 1,
-    "Judgments available": 1,
-    "Judgments not available": 0
-  },
-  {
-    "State": "Tripura",
-    "Number of persons currently on death row": 2,
-    "Persons sentenced to death in 2019": 1,
-    "Total no. of judgments": 1,
-    "Judgments available": 0,
-    "Judgments not available": 1
-  },
-  {
-    "State": "Uttarakhand",
-    "Number of persons currently on death row": 14,
-    "Persons sentenced to death in 2019": 2,
-    "Total no. of judgments": 2,
-    "Judgments available": 2,
-    "Judgments not available": 0
-  },
-  {
-    "State": "Uttar Pradesh",
-    "Number of persons currently on death row": 54,
-    "Persons sentenced to death in 2019": 11,
-    "Total no. of judgments": 8,
-    "Judgments available": 7,
-    "Judgments not available": 1
-  },
-  {
-    "State": "West Bengal",
-    "Number of persons currently on death row": 26,
-    "Persons sentenced to death in 2019": 8,
-    "Total no. of judgments": 4,
-    "Judgments available": 2,
-    "Judgments not available": 2
-  }
+    {
+        "State": "Andhra Pradesh",
+        "Number of persons currently on death row": 0,
+        "Persons sentenced to death in 2019": 0,
+        "Total no. of judgments": 0,
+        "Judgments available": 0,
+        "Judgments not available": 0
+    },
+    {
+        "State": "Assam",
+        "Number of persons currently on death row": 10,
+        "Persons sentenced to death in 2019": 4,
+        "Total no. of judgments": 4,
+        "Judgments available": 2,
+        "Judgments not available": 2
+    },
+    {
+        "State": "Bihar",
+        "Number of persons currently on death row": 28,
+        "Persons sentenced to death in 2019": 7,
+        "Total no. of judgments": 5,
+        "Judgments available": 3,
+        "Judgments not available": 2
+    },
+    {
+        "State": "Chhattisgarh",
+        "Number of persons currently on death row": 8,
+        "Persons sentenced to death in 2019": 1,
+        "Total no. of judgments": 1,
+        "Judgments available": 0,
+        "Judgments not available": 1
+    },
+    {
+        "State": "Delhi",
+        "Number of persons currently on death row": 9,
+        "Persons sentenced to death in 2019": 0,
+        "Total no. of judgments": 0,
+        "Judgments available": 0,
+        "Judgments not available": 0
+    },
+    {
+        "State": "Gujarat",
+        "Number of persons currently on death row": 4,
+        "Persons sentenced to death in 2019": 2,
+        "Total no. of judgments": 2,
+        "Judgments available": 1,
+        "Judgments not available": 1
+    },
+    {
+        "State": "Haryana",
+        "Number of persons currently on death row": 11,
+        "Persons sentenced to death in 2019": 0,
+        "Total no. of judgments": 0,
+        "Judgments available": 0,
+        "Judgments not available": 0
+    },
+    {
+        "State": "Himachal Pradesh",
+        "Number of persons currently on death row": 3,
+        "Persons sentenced to death in 2019": 0,
+        "Total no. of judgments": 0,
+        "Judgments available": 0,
+        "Judgments not available": 0
+    },
+    {
+        "State": "Jammu and Kashmir",
+        "Number of persons currently on death row": 10,
+        "Persons sentenced to death in 2019": 0,
+        "Total no. of judgments": 0,
+        "Judgments available": 0,
+        "Judgments not available": 0
+    },
+    {
+        "State": "Jharkhand",
+        "Number of persons currently on death row": 23,
+        "Persons sentenced to death in 2019": 8,
+        "Total no. of judgments": 6,
+        "Judgments available": 4,
+        "Judgments not available": 2
+    },
+    {
+        "State": "Karnataka",
+        "Number of persons currently on death row": 27,
+        "Persons sentenced to death in 2019": 8,
+        "Total no. of judgments": 10,
+        "Judgments available": 7,
+        "Judgments not available": 3
+    },
+    {
+        "State": "Kerala",
+        "Number of persons currently on death row": 19,
+        "Persons sentenced to death in 2019": 4,
+        "Total no. of judgments": 4,
+        "Judgments available": 4,
+        "Judgments not available": 0
+    },
+    {
+        "State": "Madhya Pradesh",
+        "Number of persons currently on death row": 34,
+        "Persons sentenced to death in 2019": 11,
+        "Total no. of judgments": 11,
+        "Judgments available": 10,
+        "Judgments not available": 1
+    },
+    {
+        "State": "Maharashtra",
+        "Number of persons currently on death row": 45,
+        "Persons sentenced to death in 2019": 7,
+        "Total no. of judgments": 7,
+        "Judgments available": 4,
+        "Judgments not available": 3
+    },
+    {
+        "State": "Manipur",
+        "Number of persons currently on death row": 2,
+        "Persons sentenced to death in 2019": 2,
+        "Total no. of judgments": 2,
+        "Judgments available": 1,
+        "Judgments not available": 1
+    },
+    {
+        "State": "Orissa",
+        "Number of persons currently on death row": 5,
+        "Persons sentenced to death in 2019": 4,
+        "Total no. of judgments": 4,
+        "Judgments available": 2,
+        "Judgments not available": 2
+    },
+    {
+        "State": "Punjab",
+        "Number of persons currently on death row": 8,
+        "Persons sentenced to death in 2019": 2,
+        "Total no. of judgments": 2,
+        "Judgments available": 1,
+        "Judgments not available": 1
+    },
+    {
+        "State": "Rajasthan",
+        "Number of persons currently on death row": 16,
+        "Persons sentenced to death in 2019": 13,
+        "Total no. of judgments": 7,
+        "Judgments available": 1,
+        "Judgments not available": 6
+    },
+    {
+        "State": "Tamil Nadu",
+        "Number of persons currently on death row": 13,
+        "Persons sentenced to death in 2019": 3,
+        "Total no. of judgments": 3,
+        "Judgments available": 1,
+        "Judgments not available": 2
+    },
+    {
+        "State": "Telangana",
+        "Number of persons currently on death row": 7,
+        "Persons sentenced to death in 2019": 1,
+        "Total no. of judgments": 1,
+        "Judgments available": 1,
+        "Judgments not available": 0
+    },
+    {
+        "State": "Tripura",
+        "Number of persons currently on death row": 2,
+        "Persons sentenced to death in 2019": 1,
+        "Total no. of judgments": 1,
+        "Judgments available": 0,
+        "Judgments not available": 1
+    },
+    {
+        "State": "Uttarakhand",
+        "Number of persons currently on death row": 14,
+        "Persons sentenced to death in 2019": 2,
+        "Total no. of judgments": 2,
+        "Judgments available": 2,
+        "Judgments not available": 0
+    },
+    {
+        "State": "Uttar Pradesh",
+        "Number of persons currently on death row": 54,
+        "Persons sentenced to death in 2019": 11,
+        "Total no. of judgments": 8,
+        "Judgments available": 7,
+        "Judgments not available": 1
+    },
+    {
+        "State": "West Bengal",
+        "Number of persons currently on death row": 26,
+        "Persons sentenced to death in 2019": 8,
+        "Total no. of judgments": 4,
+        "Judgments available": 2,
+        "Judgments not available": 2
+    }
 ]
