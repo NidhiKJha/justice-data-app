@@ -5,8 +5,8 @@ import StateCards from "./States/cards";
 class HighCourt extends Component {
   render() {
     return (
-      <div>
-        <MovementsHighCourtChart />;
+      <div className="part">
+        <MovementsHighCourtChart />
         <StateCards />
       </div>
     );

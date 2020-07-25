@@ -2,6 +2,7 @@ import React from "react";
 import "./App.css";
 import Slider from "./components/slider";
 import HighCourt from "./components/HighCourt/index";
+import JusticeCourt from "./components/SupremeCourt/index";
 import NavBar from "./components/nav";
 
 class App extends React.Component {
@@ -34,6 +35,7 @@ class App extends React.Component {
         </Slider>
         <br></br>
         <HighCourt />
+        <JusticeCourt />
       </div>
     );
   }

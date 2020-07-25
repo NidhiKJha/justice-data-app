@@ -2,7 +2,7 @@
   margin: 0 auto;
 
   text-align: center;
-  margin-top: 20px;
+  margin-top: 40px;
 }
 
 img {
@@ -42,7 +42,7 @@ button {
 }
 
 .pad-body {
-  font-size: 20px !important;
+  font-size: 18px !important;
   font-weight: bold;
   line-height: 1.5 !important;
   color: #1b1d6b !important;
@@ -50,7 +50,7 @@ button {
   padding: 16px 10px;
   margin-bottom: 0;
 
-  font-family:Arial;
+  font-family: Arial;
   box-sizing: border-box;
   box-shadow: grey;
 }
@@ -101,3 +101,17 @@ button {
   width: 100%;
 }
 
+.tab-header {
+  margin: 0 auto;
+  padding: 5px;
+  margin-top: 20px;
+  margin-bottom: 20px;
+  font-size: 24px;
+  font-weight: 500;
+  color: #1b1d6b;
+  background-color: #edf3ff;
+}
+
+.part {
+  margin-top: 20px;
+}

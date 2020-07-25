@@ -1,6 +1,5 @@
 import React, { Component } from "react";
-import STATE_MOVEMENTS_HC from "./../../../Data/movements-high-court.json";
-import "./cards.css";
+import STATE_MOVEMENTS_SC from "./../../../Data/movements-supreme-court.json";
 
 const TabButtons = ({ buttons, changeTab, activeTab }) => {
   return (
@@ -142,14 +141,9 @@ class StateCards extends Component {
   render() {
     return (
       <div className="tabs">
-        <div
-          className="tab-header"
-        
-        >
-          State Wise High Court Data
-        </div>
+        <div className="tab-header">State Wise Supreme Court Data</div>
         <Tabs>
-          {STATE_MOVEMENTS_HC.map((state) => {
+          {STATE_MOVEMENTS_SC.map((state) => {
             return (
               <Tab key={state.State} label={state.State}>
                 <StateTab state={state} />
