@@ -31,3 +31,15 @@
 Slider {
   margin: 40px;
 }
+
+.overview-body {
+  font-size: 16px;
+
+  line-height: 1.5 !important;
+  color: #1b1d6b !important;
+  text-align: left !important;
+  padding: 12px 7px;
+  margin-bottom: 0;
+  box-sizing: border-box;
+  box-shadow: grey;
+}

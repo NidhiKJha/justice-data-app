@@ -20,12 +20,12 @@ class MovementsHighCourtChart extends Component {
         {
           data: numberOfPersons,
           label: "Number of Persons in HC",
-          backgroundColor: "red",
+          backgroundColor: "#003d59",
         },
         {
           data: numberOfCases,
           label: "Number of Cases in HC",
-          backgroundColor: "blue",
+          backgroundColor: "#69c2bd",
         },
       ],
     };

@@ -1,10 +1,13 @@
 .slider-container {
-  width: 80%;
+  box-shadow:  2px solid #e5edf3;
+  border: 2px solid #e5edf3;
+  padding-bottom: 2;
+  background-color: #edf3ff;
   height: 160px;
   overflow: hidden;
-  border: 5px solid black;
   position: relative;
   margin: 40px;
+  padding: 20px;
 }
 
 .slider-innerContainer {
@@ -31,11 +34,17 @@
   right: 0;
   display: flex;
   justify-content: center;
-  color: red;
+  color: #003d59;
 }
 
 .slider-dots div {
   cursor: pointer;
   width: 40px;
   height: 40px;
+}
+
+@media only screen and (max-width: 430px) {
+  .slider-container {
+    height: 240px;
+  }
 }
