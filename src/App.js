@@ -4,12 +4,15 @@ import Slider from './components/slider';
 import HighCourt from './components/HighCourt/index';
 import JusticeCourt from './components/SupremeCourt/index';
 import NavBar from './components/nav';
+import SessionCourt from './components/SessionCourt/index';
 
 class App extends React.Component {
     render() {
         return (
             <div>
                 <NavBar />
+                <br></br>
+
                 <br></br>
                 <Slider>
                     <p className="overview-body">
@@ -34,6 +37,7 @@ class App extends React.Component {
                 <br></br>
                 <HighCourt />
                 <JusticeCourt />
+                <SessionCourt />
             </div>
         );
     }
