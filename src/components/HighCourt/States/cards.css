@@ -42,11 +42,11 @@ button {
 }
 
 .pad-body {
-    font-size: 18px !important;
+    text-align: center;
+    font-size: 18px;
     font-weight: bold;
     line-height: 1.5 !important;
     color: #1b1d6b !important;
-    text-align: left !important;
     padding: 16px 10px;
     margin-bottom: 0;
 

@@ -70,7 +70,7 @@ const MovementCard = ({ movement, open }) => {
         <div className="block">
             <div className="Box-Section" onClick={() => setIsCollapsed(!isCollapsed)}>
                 <span className="pad-body">
-                    {' '}
+                    {movement['PID']}{' '}
                     {movement['Cause Title'] ? movement['Cause Title'] : 'No Title available'}
                 </span>
                 <button className="pad-head">

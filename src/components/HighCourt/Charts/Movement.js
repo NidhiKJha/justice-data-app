@@ -7,15 +7,23 @@ class MovementsHighCourtChart extends Component {
         const numberOfPersons = [];
         const numberOfCases = [];
         const labels = [];
+        const options = [];
 
         for (let movement of dataset) {
             numberOfPersons.push(movement['Number of Persons in HC']);
             numberOfCases.push(movement['Number of Cases in HC']);
             labels.push(movement['Action']);
+            options.push();
         }
 
         return {
             labels,
+            options: {
+                title: {
+                    display: true,
+                    text: 'Custom Chart Title'
+                }
+            },
             datasets: [
                 {
                     data: numberOfPersons,
@@ -31,7 +39,29 @@ class MovementsHighCourtChart extends Component {
         };
     };
     render() {
-        return <HorizontalBar data={this.formData()}></HorizontalBar>;
+        return (
+            <HorizontalBar
+                data={this.formData()}
+                options={{
+                    title: {
+                        display: true,
+                        text: 'Analysis of Actions in High Court',
+                        fontWeight: 500,
+                        fontSize: 16,
+                        fontColor:'#1b1d6b',
+                    },
+                    scales: {
+                        xAxes: [
+                            {
+                                ticks: {
+                                    min: 0
+                                }
+                            }
+                        ]
+                    }
+                }}
+            ></HorizontalBar>
+        );
     }
 }
 

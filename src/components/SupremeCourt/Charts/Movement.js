@@ -10,7 +10,7 @@ class MovementsSupremeCourtChart extends Component {
 
         for (let movement of dataset) {
             numberOfPersons.push(movement['Number of Persons in SC']);
-            numberOfCases.push(movement['Number of Cases in HSC']);
+            numberOfCases.push(movement['Number of Cases in SC']);
             labels.push(movement['Action']);
         }
 
@@ -30,8 +30,31 @@ class MovementsSupremeCourtChart extends Component {
             ]
         };
     };
+
     render() {
-        return <HorizontalBar data={this.formData()}></HorizontalBar>;
+        return (
+            <HorizontalBar
+                data={this.formData()}
+                options={{
+                    title: {
+                        display: true,
+                        text: 'Analysis of Actions in Supreme Court',
+                        fontWeight: 500,
+                        fontSize: 16,
+                        fontColor: '#1b1d6b'
+                    },
+                    scales: {
+                        xAxes: [
+                            {
+                                ticks: {
+                                    min: 0
+                                }
+                            }
+                        ]
+                    }
+                }}
+            ></HorizontalBar>
+        );
     }
 }
 
