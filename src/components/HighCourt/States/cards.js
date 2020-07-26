@@ -75,9 +75,9 @@ const MovementCard = ({ movement, open }) => {
                 </span>
                 <button className="pad-head">
                     {isCollapsed ? (
-                        <i class="fa fa-arrow-down" aria-hidden="true"></i>
+                        <i className="fa fa-arrow-down" aria-hidden="true"></i>
                     ) : (
-                        <i class="fa fa-arrow-up" aria-hidden="true"></i>
+                        <i className="fa fa-arrow-up" aria-hidden="true"></i>
                     )}
                 </button>
             </div>
