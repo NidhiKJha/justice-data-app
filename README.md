@@ -1,4 +1,4 @@
-This app helps us to understand the judgements made by Supreme Court, High Court and Session Courts in different cases .
+This app helps us to understand the judgements made by Supreme Court, High Court and Session Courts in different cases. The data used in this is referenced from [39A report](https://static1.squarespace.com/static/5a843a9a9f07f5ccd61685f3/t/5e25a02b5dfafe47d399d2ad/1579524149035/Project+39A+Annual-Statistics-04-PG-Web.pdf).
 
 ### To run the app
 
