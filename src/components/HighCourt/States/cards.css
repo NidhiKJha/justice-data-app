@@ -69,6 +69,11 @@ button {
     flex-direction: column;
 }
 
+.State-Card {
+    background-color: #edf3ff;
+    margin-top: 10px;
+}
+
 .flex-t-head {
     color: #558dd1 !important;
     font-size: 14px;

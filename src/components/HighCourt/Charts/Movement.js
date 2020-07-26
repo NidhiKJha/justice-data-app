@@ -48,7 +48,7 @@ class MovementsHighCourtChart extends Component {
                         text: 'Analysis of Actions in High Court',
                         fontWeight: 500,
                         fontSize: 16,
-                        fontColor:'#1b1d6b',
+                        fontColor: '#1b1d6b'
                     },
                     scales: {
                         xAxes: [
