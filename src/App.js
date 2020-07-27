@@ -5,7 +5,7 @@ import HighCourt from './components/HighCourt/index';
 import JusticeCourt from './components/SupremeCourt/index';
 import NavBar from './components/nav';
 import SessionCourt from './components/SessionCourt/index';
-
+import FinalObservations from './components/FinalObservation';
 class App extends React.Component {
     render() {
         return (
@@ -38,6 +38,8 @@ class App extends React.Component {
                 <HighCourt />
                 <JusticeCourt />
                 <SessionCourt />
+                <br></br>
+                <FinalObservations />
             </div>
         );
     }

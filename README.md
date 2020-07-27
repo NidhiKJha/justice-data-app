@@ -4,7 +4,18 @@ This app helps us to understand the judgements made by Supreme Court, High Court
 
 1. #### `yarn install`
 
-2. #### `yarn start`
+2. #### `Creating a .env.local file`
+
+To run this app we need to create a .env.local file. For that
+
+1.  Go to the terminal and type `touche .env.local`. This will create a .env.local file in the root of the app.
+2.  In .env.local file ,
+
+REACT_APP_MAPBOX_TOKEN: "Your access token here"
+
+To get access Token : You need to go to [mapbox](https://www.mapbox.com/), create an account and then you can generate an access token.
+
+3. #### `yarn start`
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.

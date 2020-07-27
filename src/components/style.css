@@ -53,6 +53,12 @@
     padding-right: 0px !important;
 }
 
+.final-card {
+    box-shadow: 4px solid #e5edf3;
+    border: 2px solid #e5edf3;
+    margin: 40px;
+}
+
 .about-text {
     margin: 0 auto;
     font-size: 24px;
@@ -62,5 +68,6 @@
 @media only screen and (max-width: 500px) {
     .slider-container {
         height: 300px;
+        margin: 40px;
     }
 }
