@@ -20,7 +20,7 @@ To get access Token : You need to go to [mapbox](https://www.mapbox.com/), creat
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
-Deployed Link : https://justice-data-hub.netlify.app/
+Deployed Link : https://justice-data-39a.netlify.app//
 
 ### Functionalities Added
 
