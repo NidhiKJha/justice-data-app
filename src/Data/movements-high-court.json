@@ -1,5 +1,81 @@
 [
     {
+        "State": "Tamil Nadu",
+        "NumberOfMovements": 5,
+        "Movements": [
+            {
+                "S. No.": 46,
+                "PID": "P046",
+                "State": "Tamil Nadu",
+                "Cause Title": "State of Tamil Nadu v. Kattavellai alias Devkar",
+                "Action": "Confirmed",
+                "Date": "13.03.2019",
+                "Nature of Offence": "Sexual Offences",
+                "Court (Bench)": "Madras High Court (Madurai)",
+                "Coram": "Justices R. Subbiah and B. Pugalendhi",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Not Applicable",
+                "Description of offence accused of": "Raped and murdered a woman, cut her arms and legs, murdered her lover after looting them"
+            },
+            {
+                "S. No.": 62,
+                "PID": "P062",
+                "State": "Tamil Nadu",
+                "Cause Title": "State of Jharkhand v. Arumugam",
+                "Action": "Commuted",
+                "Date": "28.03.2019",
+                "Nature of Offence": "Murder Simpliciter",
+                "Court (Bench)": "Madras High Court (Madurai)",
+                "Coram": "Justices R. Subbiah and B. Pugalendhi",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Whole life",
+                "Description of offence accused of": "Murdered a neighbour's 5 year-old boy in front of his mother holding her responsible for his wife leaving him"
+            },
+            {
+                "S. No.": 66,
+                "PID": "P066",
+                "State": "Tamil Nadu",
+                "Cause Title": "State of Tamil Nadu v. Sundararaj and Ors",
+                "Action": "Acquitted",
+                "Date": "03.04.2019",
+                "Nature of Offence": "Sexual Offences",
+                "Court (Bench)": "Madras High Court (Madurai)",
+                "Coram": "Justices P. N. Prakash and B. Pugalendhi",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Not Applicable",
+                "Description of offence accused of": "Rape and murder of a 15-year-old girl"
+            },
+            {
+                "S. No.": 67,
+                "PID": "P067",
+                "State": "Tamil Nadu",
+                "Cause Title": "State of Tamil Nadu v. Sundararaj and Ors",
+                "Action": "Acquitted",
+                "Date": "03.04.2019",
+                "Nature of Offence": "Sexual Offences",
+                "Court (Bench)": "Madras High Court (Madurai)",
+                "Coram": "Justices P. N. Prakash and B. Pugalendhi",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Not Applicable",
+                "Description of offence accused of": "Rape and murder of a 15-year-old girl"
+            },
+            {
+                "S. No.": 68,
+                "PID": "P068",
+                "State": "Tamil Nadu",
+                "Cause Title": "State of Tamil Nadu v. Sundararaj and Ors",
+                "Action": "Acquitted",
+                "Date": "03.04.2019",
+                "Nature of Offence": "Sexual Offences",
+                "Court (Bench)": "Madras High Court (Madurai)",
+                "Coram": "Justices P. N. Prakash and B. Pugalendhi",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Not Applicable",
+                "Description of offence accused of": "Rape and murder of a 15-year-old girl"
+            }
+        ]
+    },
+    {
         "State": "West Bengal",
         "NumberOfMovements": 2,
         "Movements": [
@@ -993,82 +1069,7 @@
             }
         ]
     },
-    {
-        "State": "Tamil Nadu",
-        "NumberOfMovements": 5,
-        "Movements": [
-            {
-                "S. No.": 46,
-                "PID": "P046",
-                "State": "Tamil Nadu",
-                "Cause Title": "State of Tamil Nadu v. Kattavellai alias Devkar",
-                "Action": "Confirmed",
-                "Date": "13.03.2019",
-                "Nature of Offence": "Sexual Offences",
-                "Court (Bench)": "Madras High Court (Madurai)",
-                "Coram": "Justices R. Subbiah and B. Pugalendhi",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Not Applicable",
-                "Description of offence accused of": "Raped and murdered a woman, cut her arms and legs, murdered her lover after looting them"
-            },
-            {
-                "S. No.": 62,
-                "PID": "P062",
-                "State": "Tamil Nadu",
-                "Cause Title": "State of Jharkhand v. Arumugam",
-                "Action": "Commuted",
-                "Date": "28.03.2019",
-                "Nature of Offence": "Murder Simpliciter",
-                "Court (Bench)": "Madras High Court (Madurai)",
-                "Coram": "Justices R. Subbiah and B. Pugalendhi",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Whole life",
-                "Description of offence accused of": "Murdered a neighbour's 5 year-old boy in front of his mother holding her responsible for his wife leaving him"
-            },
-            {
-                "S. No.": 66,
-                "PID": "P066",
-                "State": "Tamil Nadu",
-                "Cause Title": "State of Tamil Nadu v. Sundararaj and Ors",
-                "Action": "Acquitted",
-                "Date": "03.04.2019",
-                "Nature of Offence": "Sexual Offences",
-                "Court (Bench)": "Madras High Court (Madurai)",
-                "Coram": "Justices P. N. Prakash and B. Pugalendhi",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Not Applicable",
-                "Description of offence accused of": "Rape and murder of a 15-year-old girl"
-            },
-            {
-                "S. No.": 67,
-                "PID": "P067",
-                "State": "Tamil Nadu",
-                "Cause Title": "State of Tamil Nadu v. Sundararaj and Ors",
-                "Action": "Acquitted",
-                "Date": "03.04.2019",
-                "Nature of Offence": "Sexual Offences",
-                "Court (Bench)": "Madras High Court (Madurai)",
-                "Coram": "Justices P. N. Prakash and B. Pugalendhi",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Not Applicable",
-                "Description of offence accused of": "Rape and murder of a 15-year-old girl"
-            },
-            {
-                "S. No.": 68,
-                "PID": "P068",
-                "State": "Tamil Nadu",
-                "Cause Title": "State of Tamil Nadu v. Sundararaj and Ors",
-                "Action": "Acquitted",
-                "Date": "03.04.2019",
-                "Nature of Offence": "Sexual Offences",
-                "Court (Bench)": "Madras High Court (Madurai)",
-                "Coram": "Justices P. N. Prakash and B. Pugalendhi",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Not Applicable",
-                "Description of offence accused of": "Rape and murder of a 15-year-old girl"
-            }
-        ]
-    },
+
     {
         "State": "Haryana",
         "NumberOfMovements": 11,

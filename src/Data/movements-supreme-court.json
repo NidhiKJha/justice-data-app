@@ -1,5 +1,67 @@
 [
     {
+        "State": "Karnataka",
+        "NumberOfMovements": 4,
+        "Movements": [
+            {
+                "S. No.": 15,
+                "PID": "P015",
+                "State": "Karnataka",
+                "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
+                "Action": "Acquitted",
+                "Date": "23.01.2019",
+                "Nature of Offence": "Dacoity with Murder",
+                "Court (Bench)": "Supreme Court",
+                "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Not Applicable",
+                "Description of offence accused of": "Robbery and murder of 3 persons"
+            },
+            {
+                "S. No.": 16,
+                "PID": "P016",
+                "State": "Karnataka",
+                "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
+                "Action": "Acquitted",
+                "Date": "23.01.2019",
+                "Nature of Offence": "Dacoity with Murder",
+                "Court (Bench)": "Supreme Court",
+                "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Not Applicable",
+                "Description of offence accused of": "Robbery and murder of 3 persons"
+            },
+            {
+                "S. No.": 17,
+                "PID": "P017",
+                "State": "Karnataka",
+                "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
+                "Action": "Commuted",
+                "Date": "23.01.2019",
+                "Nature of Offence": "Dacoity with Murder",
+                "Court (Bench)": "Supreme Court",
+                "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Not Applicable",
+                "Description of offence accused of": "Robbery and murder of 3 persons"
+            },
+            {
+                "S. No.": 18,
+                "PID": "P018",
+                "State": "Karnataka",
+                "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
+                "Action": "Acquitted",
+                "Date": "23.01.2019",
+                "Nature of Offence": "Dacoity with Murder",
+                "Court (Bench)": "Supreme Court",
+                "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
+                "Judgment": "Y",
+                "Sriharan Commutation": "Not Applicable",
+                "Description of offence accused of": "Robbery and murder of 3 persons"
+            }
+        ]
+    },
+    {
         "State": "Bihar",
         "NumberOfMovements": 1,
         "Movements": [
@@ -336,68 +398,6 @@
                 "Judgment": "Y",
                 "Sriharan Commutation": "Not Applicable",
                 "Description of offence accused of": "Rape and murder of a minor girl"
-            }
-        ]
-    },
-    {
-        "State": "Karnataka",
-        "NumberOfMovements": 4,
-        "Movements": [
-            {
-                "S. No.": 15,
-                "PID": "P015",
-                "State": "Karnataka",
-                "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
-                "Action": "Acquitted",
-                "Date": "23.01.2019",
-                "Nature of Offence": "Dacoity with Murder",
-                "Court (Bench)": "Supreme Court",
-                "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Not Applicable",
-                "Description of offence accused of": "Robbery and murder of 3 persons"
-            },
-            {
-                "S. No.": 16,
-                "PID": "P016",
-                "State": "Karnataka",
-                "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
-                "Action": "Acquitted",
-                "Date": "23.01.2019",
-                "Nature of Offence": "Dacoity with Murder",
-                "Court (Bench)": "Supreme Court",
-                "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Not Applicable",
-                "Description of offence accused of": "Robbery and murder of 3 persons"
-            },
-            {
-                "S. No.": 17,
-                "PID": "P017",
-                "State": "Karnataka",
-                "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
-                "Action": "Commuted",
-                "Date": "23.01.2019",
-                "Nature of Offence": "Dacoity with Murder",
-                "Court (Bench)": "Supreme Court",
-                "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Not Applicable",
-                "Description of offence accused of": "Robbery and murder of 3 persons"
-            },
-            {
-                "S. No.": 18,
-                "PID": "P018",
-                "State": "Karnataka",
-                "Cause Title": "Basavaraj alias Basya and Ors v. State of Karnataka",
-                "Action": "Acquitted",
-                "Date": "23.01.2019",
-                "Nature of Offence": "Dacoity with Murder",
-                "Court (Bench)": "Supreme Court",
-                "Coram": "Chief Justice Ranjan Gogoi, Justices L. Nageswara Rao and Sanjiv Khanna",
-                "Judgment": "Y",
-                "Sriharan Commutation": "Not Applicable",
-                "Description of offence accused of": "Robbery and murder of 3 persons"
             }
         ]
     },
