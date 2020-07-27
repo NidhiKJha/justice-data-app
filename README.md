@@ -28,7 +28,7 @@ Deployed Link : https://justice-data-39a.netlify.app//
 2. Maps
 3. Slider
 4. Code Quality Improvement using Prettier
-5. Accessibility of the app is 76%
+5. Accessibility of the app is 77%
 
 ### Tech Used
 

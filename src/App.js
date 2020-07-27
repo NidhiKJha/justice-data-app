@@ -35,8 +35,9 @@ class App extends React.Component {
                     </p>
                 </Slider>
                 <br></br>
-                <HighCourt />
+
                 <JusticeCourt />
+                <HighCourt />
                 <SessionCourt />
                 <br></br>
                 <FinalObservations />
