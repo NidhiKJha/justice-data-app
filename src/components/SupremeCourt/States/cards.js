@@ -136,7 +136,7 @@ class StateCards extends Component {
     render() {
         return (
             <div className="tabs">
-                <div className="tab-header">State Wise Supreme Court Data</div>
+                <div className="tab-header">State Wise High Court Data</div>
                 <Tabs>
                     {STATE_MOVEMENTS_SC.map((state) => {
                         return (
