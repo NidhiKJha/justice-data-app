@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React, { Component, useState } from 'react';
 import STATE_MOVEMENTS_SC from './../../../Data/movements-supreme-court.json';
 
 const TabButtons = ({ buttons, changeTab, activeTab }) => {
@@ -74,9 +74,9 @@ const MovementCard = ({ movement, open }) => {
                 </span>
                 <button className="pad-head">
                     {isCollapsed ? (
-                        <i className="fa fa-arrow-down" aria-hidden="true"></i>
+                        <i class="fa fa-arrow-down" aria-hidden="true"></i>
                     ) : (
-                        <i className="fa fa-arrow-up" aria-hidden="true"></i>
+                        <i class="fa fa-arrow-up" aria-hidden="true"></i>
                     )}
                 </button>
             </div>
@@ -122,12 +122,59 @@ const MovementCard = ({ movement, open }) => {
     );
 };
 
+const SearchBox = ({ state, setSearching, setFoundMovements }) => {
+    const [query, setQuery] = useState('');
+
+    const handleChange = (e) => {
+        e.persist();
+        setQuery(e.target.value);
+        if (e.target.value) {
+            setSearching(true);
+            const found = state['Movements'].filter((movement) =>
+                movement['Nature of Offence'].toLowerCase().includes(e.target.value.toLowerCase())
+            );
+            setFoundMovements(found);
+        } else {
+            setSearching(false);
+        }
+    };
+
+    return (
+        <input
+            type="text"
+            value={query}
+            placeholder='Search cases based on "Nature of Offence"'
+            style={{
+                width: '50%',
+                fontSize: '1.2em',
+                margin: '0.5em',
+                backgroundColor: '#edf3ff',
+                borderColor: '#1b1d6b',
+                marginBottom: '40px'
+            }}
+            onChange={(e) => handleChange(e)}
+        />
+    );
+};
+
 const StateTab = ({ state }) => {
+    const [searching, setSearching] = useState(false);
+    const [foundMovements, setFoundMovements] = useState([]);
+
     return (
         <div>
-            {state['Movements'].map((movement) => (
-                <MovementCard key={movement['PID']} movement={movement} />
-            ))}
+            <SearchBox
+                state={state}
+                setSearching={setSearching}
+                setFoundMovements={setFoundMovements}
+            />
+            {searching
+                ? foundMovements.map((movement) => (
+                      <MovementCard key={movement['PID']} movement={movement} />
+                  ))
+                : state['Movements'].map((movement) => (
+                      <MovementCard key={movement['PID']} movement={movement} />
+                  ))}
         </div>
     );
 };
