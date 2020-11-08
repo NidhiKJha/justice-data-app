@@ -17,7 +17,7 @@ function SessionMap() {
             <ReactMapGL
                 {...viewport}
                 mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN}
-                mapStyle="mapbox://styles/tedtesla/ckd3cecj03sqr1ipgz2cer4u7"
+                mapStyle="mapbox://styles/tedtesla/ckd2zvvhi3glu1ipggq70rarn"
             >
                 {stateData.map((state) => {
                     return (

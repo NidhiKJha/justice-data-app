@@ -28,12 +28,16 @@ class MovementsHighCourtChart extends Component {
                 {
                     data: numberOfPersons,
                     label: 'Number of Persons in HC',
-                    backgroundColor: '#003d59'
+                    backgroundColor: '#003d59',
+                    barPercentage: 0.5,
+                   
                 },
                 {
                     data: numberOfCases,
                     label: 'Number of Cases in HC',
-                    backgroundColor: '#69c2bd'
+                    backgroundColor: '#69c2bd',
+
+                    borderWidth: 0.2
                 }
             ]
         };
@@ -55,7 +59,10 @@ class MovementsHighCourtChart extends Component {
                             {
                                 ticks: {
                                     min: 0
-                                }
+                                },
+                                barPercentage: 0.4,
+                                barThickness: 6, // number (pixels) or 'flex'
+                                maxBarThickness: 8 // number (pixels)
                             }
                         ]
                     }
